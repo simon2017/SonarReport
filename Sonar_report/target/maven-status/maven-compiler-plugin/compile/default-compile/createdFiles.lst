@@ -1,0 +1,11 @@
+com\everis\sonar\util\UtilCoverage$1.class
+com\everis\sonar\util\UtilRestJson.class
+com\everis\sonar\util\UtilCoverage.class
+com\everis\sonar\dto\DataDTO.class
+com\everis\sonar\util\UtilRestJson$ConnectionImp.class
+com\everis\sonar\dto\MsgDTO.class
+com\everis\sonar\util\UtilCoverage$2.class
+com\everis\sonar\dto\PagingDTO.class
+com\everis\sonar\dto\CoverageDTO.class
+com\everis\sonar\dto\IssueDTO.class
+com\everis\sonar\util\Sonar.class
